@@ -6,7 +6,6 @@
     
 </head>
 <body>
-    <h1>ICC</h1>
     <h1>IM</h1>
     <h1>PULSE</h1>
     <h1>IMPULSE</h1>
