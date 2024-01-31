@@ -6,7 +6,10 @@
     
 </head>
 <body>
-    <h1>Bienvenido a mi Página Web</h1>
-    <p>Esta es una página web básica.</p>
+    <h1>ICC</h1>
+    <h1>IM</h1>
+    <h1>PULSE</h1>
+    <h1>IMPULSE</h1>
+    <p>Create Explore Expand Conquer</p>
 </body>
 </html>
